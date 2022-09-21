@@ -3,6 +3,9 @@
 
 This is the Vet Clinic DB database initialized in the first week of the fourth module in the Microverse program.
 
+![drawSQL-export-2022-09-21_12_11](https://user-images.githubusercontent.com/84423749/191594659-a15c3460-cec7-4ed8-b406-20ba27c5fcde.png)
+
+
 ## Built With
 ![](https://img.shields.io/badge/-SQL-blue) ![](https://img.shields.io/badge/-PostgreSQL-cyan)
 - Visual Studio Code
